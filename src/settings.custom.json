@@ -1,0 +1,42 @@
+{
+    "app": {
+        "colorScheme": "light",
+        "elementSize": "default",
+        "iconifyOfflineUse": false,
+        "enablePermission": false,
+        "enableProgress": true,
+        "enableDynamicTitle": true,
+        "routeBaseOn": "frontend"
+    },
+    "dashboard": {
+        "enable": true,
+        "title": "控制台"
+    },
+    "layout": {
+        "enableMobileAdaptation": true
+    },
+    "menu": {
+        "baseOn": "frontend",
+        "menuMode": "side",
+        "switchMainMenuAndPageJump": true,
+        "subMenuUniqueOpened": true,
+        "subMenuCollapse": false
+    },
+    "topbar": {
+        "fixed": true,
+        "enableSidebarCollapse": false,
+        "enableBreadcrumb": true,
+        "enableNavSearch": true,
+        "enableFullscreen": true,
+        "enablePageReload": true,
+        "enableColorScheme": true,
+        "enableAppSetting": true
+    },
+    "copyright": {
+        "enable": true,
+        "dates": "2020-2022",
+        "company": "云桥实训-管理端",
+        "website": "",
+        "beian": ""
+    }
+}
